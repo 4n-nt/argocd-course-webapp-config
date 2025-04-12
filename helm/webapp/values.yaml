@@ -8,7 +8,7 @@ image:
   repository: ngthienan/argocd-demo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 48230902cad912098d724c1fd3afb4ea807693c0
+  tag: eee154393d2c62eae00a6a0c7acfb600cbfcbe36
 
 imagePullSecrets: []
 nameOverride: ""
